@@ -1,8 +1,9 @@
-import React from 'react'
-const HelpPage=()=>(
-    <div>
-        saanghyuk@gmail.com
-    </div>
+import React from 'react';
+
+const HelpPage = () => (
+  <div>
+    This is from my help component
+  </div>
 );
 
-export default HelpPage
+export default HelpPage;
